@@ -57,6 +57,7 @@ The current theme used for the dashboard is **Metricalist-Simply Modern Dark**, 
 Include snapshots of the following measures calculated in the dashboard:
 
 - [Cumulative Total Sales](#)
+       
 - [Repeated Order IDs](#)
 - [Profit](#)
 - [Revenue](#)
@@ -79,4 +80,3 @@ This dashboard provides a powerful tool for analyzing Super Store data, offering
 
 ---
 
-Feel free to check out the dashboard [here](URL) and explore the repository for more details on its creation and functionalities.
