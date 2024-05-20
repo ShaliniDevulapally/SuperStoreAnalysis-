@@ -57,12 +57,19 @@ The current theme used for the dashboard is **Metricalist-Simply Modern Dark**, 
 Include snapshots of the following measures calculated in the dashboard:
 
 - [Cumulative Total Sales](#)
-       
+
+  ![CumulativeTotalSales](https://github.com/ShaliniDevulapally/SuperStoreAnalysis-/assets/105088900/aee6502e-187e-4998-9f2a-67abb2e5f374)    
 - [Repeated Order IDs](#)
+  
+  ![RepeatedOrderIDs](https://github.com/ShaliniDevulapally/SuperStoreAnalysis-/assets/105088900/d068717b-8bb5-4bdb-8727-c6d9f2343b08)
 - [Profit](#)
 - [Revenue](#)
 - [Cost](#)
 - [New and Repeated Orders](#)
+
+  ![NewOrderIds](https://github.com/ShaliniDevulapally/SuperStoreAnalysis-/assets/105088900/1531b66c-e2c0-4c17-b8e6-4e38ba542c85)
+
+  
 - [Average Profit Margin](#)
 
 
