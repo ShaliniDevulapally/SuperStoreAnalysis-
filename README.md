@@ -75,6 +75,8 @@ Include snapshots of the following measures calculated in the dashboard:
 
 ## <span style="color:green">Snapshot of Dashboard</span>
 
+![SuperStoreDashboard](https://github.com/ShaliniDevulapally/SuperStoreAnalysis-/assets/105088900/2094ebde-1698-446f-af3d-f401d9ebefc7)
+
 
 ## <span style="color:green">How to Use</span>
 
