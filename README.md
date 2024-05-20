@@ -73,6 +73,8 @@ Include snapshots of the following measures calculated in the dashboard:
 - [Average Profit Margin](#)
 
 
+## <span style="color:green">Snapshot of Dashboard</span>
+
 
 ## <span style="color:green">How to Use</span>
 
