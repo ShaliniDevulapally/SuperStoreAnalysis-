@@ -1,6 +1,6 @@
-# <span style="color:blue">Super Store Data Analysis Dashboard (2014-2017)</span>
+# <span style="color:blue">Sales Performance Analysis Dashboard (2014-2017)</span>
 
-Welcome to the **Super Store Data Insights Dashboard**, an interactive tool designed to analyze Super Store data from 2014 to 2017. This dashboard provides comprehensive insights into the company's growth in revenue, profits, and product sales across different categories.
+Welcome to the **Sales Performance Data Insights Dashboard**, an interactive tool designed to analyze Super Store data from 2014 to 2017. This dashboard provides comprehensive insights into the company's growth in revenue, profits, and product sales across different categories.
 
 ## <span style="color:green">Problem Statement</span>
 
